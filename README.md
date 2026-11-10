@@ -63,7 +63,7 @@ Each event has a category, which most calendar apps show or let you search for:
 | crypto | exchange listings, token unlocks, ETF decisions, network upgrades |
 | stocks | earnings of large companies, index rebalances |
 
-The calendar keeps events from the last 60 days, so you can look back at what happened.
+Past events stay in the calendar with their outcome, so you can look back at what happened.
 
 ## Where the data comes from
 
