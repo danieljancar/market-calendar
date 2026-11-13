@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:124bce3bc6a0dc2c@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261106T133000Z
 DTEND:20261106T143000Z
 SUMMARY:US jobs report (October)
@@ -26,7 +26,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff3391996ed63bc@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ URL:https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-be
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f8bb7efd634991@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261110T133000Z
 DTEND:20261110T143000Z
 SUMMARY:US CPI (October)
@@ -75,7 +75,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:77daac68318d714e@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ URL:https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-p
 END:VEVENT
 BEGIN:VEVENT
 UID:1b2afa1d94c8076a@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
 SUMMARY:Nvidia Q3 FY2027 earnings
@@ -127,7 +127,7 @@ URL:https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/n
 END:VEVENT
 BEGIN:VEVENT
 UID:53be903d3e2dba69@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261125T133000Z
 DTEND:20261125T143000Z
 SUMMARY:US PCE inflation (October)
@@ -145,7 +145,7 @@ URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7f7a7d912747d0@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
@@ -153,22 +153,64 @@ SUMMARY:MSCI drops Strategy and Metaplanet
 DESCRIPTION:Strategy leaves the MSCI USA\, World and ACWI indexes and Metap
  lanet leaves MSCI Japan Small Cap after the close.\n\nThis is the first cu
  t under MSCI's new rule for non-operating companies\, announced in the Nov
- ember review. Passive funds tracking MSCI own nearly $3bn of MSTR\, and JP
- Morgan estimated up to $8.8bn of outflows if other index providers follow.
-  Removal doesn't force Strategy to sell bitcoin. Expect index selling into
-  the close\, with room for a relief bounce after.\n\nThe Block: Strategy\,
-  Metaplanet lose MSCI index membership: https://www.theblock.co/news/marke
- ts/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-resh
- uffle-438437\nMLQ: MSCI to drop Strategy and Metaplanet after Nov. 30: htt
- ps://mlq.ai/news/msci-confirms-it-will-drop-strategy-and-metaplanet-from-i
- ts-indexes-after-nov-30/
+ ember review. Passive funds tracking MSCI own nearly $3bn of MSTR\, and St
+ rategy itself estimates $2.8bn of its shares will be sold (Investing.com).
+  JPMorgan estimated up to $8.8bn of outflows if other index providers foll
+ ow. Removal doesn't force Strategy to sell bitcoin. Expect index selling i
+ nto the close\, with room for a relief bounce after.\n\nThe Block: Strateg
+ y\, Metaplanet lose MSCI index membership: https://www.theblock.co/news/ma
+ rkets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-r
+ eshuffle-438437\nInvesting.com: Strategy to be removed from MSCI indexes: 
+ https://investing.com/news/stock-market-news/strategy-to-be-removed-from-m
+ sci-indexes-what-are-the-risks-for-bitcoin-93CH-5020460\nMLQ: MSCI to drop
+  Strategy and Metaplanet after Nov. 30: https://mlq.ai/news/msci-confirms-
+ it-will-drop-strategy-and-metaplanet-from-its-indexes-after-nov-30/
 CATEGORIES:stocks
 URL:https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-los
  e-msci-index-membership-november-reshuffle-438437
 END:VEVENT
 BEGIN:VEVENT
+UID:7836f48f0d47799b@market-calendar
+DTSTAMP:20261113T054537Z
+DTSTART:20261201T100000Z
+DTEND:20261201T110000Z
+SUMMARY:Eurozone flash inflation (November)
+DESCRIPTION:Eurostat's flash HICP for November\, the last eurozone inflatio
+ n print before the December 17 ECB decision.\n\nThird-party calendars list
+  11:00 CET on December 1. One Eurostat-based schedule shows a different da
+ te\, so check Eurostat's release calendar. A hot print would firm up ECB h
+ awkishness while the Fed hikes\, which supports the euro and EUR/CHF. A so
+ ft print widens the US-EU rate gap and favours the dollar.\n\nEurostat: re
+ lease calendar: https://ec.europa.eu/eurostat/news/release-calendar\nForex
+ fundamentals: euro area HICP 2026-12-01: https://forexfundamentals.com/eco
+ nomic-calendar/eur-cpi/2026-12-01
+CATEGORIES:macro
+URL:https://ec.europa.eu/eurostat/news/release-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f7d84bd600c7e9@market-calendar
+DTSTAMP:20261113T054537Z
+DTSTART:20261202T073000Z
+DTEND:20261202T083000Z
+SUMMARY:Swiss CPI (November)
+DESCRIPTION:Swiss consumer prices for November\, the last print before the 
+ December 10 SNB decision.\n\nThe FSO publishes at 08:30 Swiss time\, and t
+ he date comes from a third-party calendar. October inflation surprised hig
+ her\, though core gave some relief (investingLive). A firm print feeds tal
+ k of an SNB move off 0% and supports the CHF. A soft print keeps the SNB o
+ n hold and leaves intervention talk in play.\n\nFSO: consumer price index:
+  https://www.bfs.admin.ch/bfs/en/home/statistics/prices/consumer-price-ind
+ ex.html\nForexfundamentals: Swiss CPI 2026-12-02: https://forexfundamental
+ s.com/economic-calendar/ch-cpi/2026-12-02\ninvestingLive: Swiss inflation 
+ surprises higher in October: https://investinglive.com/news/swiss-inflatio
+ n-surprises-higher-in-october-but-core-prices-offer-some-relief/
+CATEGORIES:macro
+URL:https://www.bfs.admin.ch/bfs/en/home/statistics/prices/consumer-price-i
+ ndex.html
+END:VEVENT
+BEGIN:VEVENT
 UID:e1218ed29ec170db@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261204T133000Z
 DTEND:20261204T143000Z
 SUMMARY:US jobs report (November)
@@ -183,30 +225,30 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2629ea169b240101@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
 SUMMARY:FOMC rate decision
 DESCRIPTION:A 25bp hike from 3.75–4.00% is the market's base case after t
  he hot October CPI.\n\nThe Fed held at its October 28 meeting. Before CPI\
  , Kalshi priced a 25bp hike at 77%. After CPI\, CME FedWatch priced 88.8% 
- for 25bp\, and the rest of the odds sat on 50bp. Waller had said 50bp shou
- ld be considered if core CPI came in at 0.3% or higher\, and it did. Logan
-  said it may be possible to move more rapidly\, and Goolsbee called the in
- flation outlook borderline disturbing. A 50bp hike or hawkish guidance wou
- ld hit crypto\, tech and gold. A hold would set off a relief rally.\n\nKal
- shi Fed rate odds: https://kalshi.com/fed-rate-odds\nInvesting.com: Fed hi
- ke odds at 88% after hot CPI: https://www.investing.com/news/economy-news/
- fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585\nY
- ahoo Finance: Fed officials open door to quicker hikes: https://finance.ya
- hoo.com/economy/policy/articles/fed-officials-open-door-half-164918823.htm
- l
+ for 25bp\, and the rest of the odds sat on 50bp. By November 12 the 50bp o
+ dds were 13.2% (Stocktwits). Waller had said 50bp should be considered if 
+ core CPI came in at 0.3% or higher\, and it did. Logan said it may be poss
+ ible to move more rapidly\, and Goolsbee called the inflation outlook bord
+ erline disturbing. A 50bp hike or hawkish guidance would hit crypto\, tech
+  and gold. A hold would set off a relief rally.\n\nKalshi Fed rate odds: h
+ ttps://kalshi.com/fed-rate-odds\nInvesting.com: Fed hike odds at 88% after
+  hot CPI: https://www.investing.com/news/economy-news/fed-rate-hike-odds-i
+ n-december-at-88-after-hot-cpi-cme-fedwatch-5017585\nYahoo Finance: Fed of
+ ficials open door to quicker hikes: https://finance.yahoo.com/economy/poli
+ cy/articles/fed-officials-open-door-half-164918823.html
 CATEGORIES:central bank
 URL:https://kalshi.com/fed-rate-odds
 END:VEVENT
 BEGIN:VEVENT
 UID:76eb64214b7d8db5@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261210T083000Z
 DTEND:20261210T093000Z
 SUMMARY:SNB monetary policy assessment
@@ -224,7 +266,7 @@ URL:https://www.snb.ch/en/ifor/media/id/media_events
 END:VEVENT
 BEGIN:VEVENT
 UID:8c55e640f5a908f7@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20261210T133000Z
 DTEND:20261210T143000Z
 SUMMARY:US CPI (November)
@@ -239,7 +281,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:59bfc848f5c9b78e@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
@@ -259,7 +301,7 @@ URL:https://www.financecalendar.com/event/ecb-rate-decision-december-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:db3e3586be695d54@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
@@ -283,7 +325,7 @@ URL:https://investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-i
 END:VEVENT
 BEGIN:VEVENT
 UID:926b93dfd5a1b792@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART:20270127T190000Z
 DTEND:20270127T200000Z
 SUMMARY:FOMC rate decision
@@ -301,7 +343,7 @@ URL:https://www.federalreserve.gov/newsevents/pressreleases/monetary2025090
 END:VEVENT
 BEGIN:VEVENT
 UID:73f60bd123a7e865@market-calendar
-DTSTAMP:20261113T054310Z
+DTSTAMP:20261113T054537Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 TRANSP:TRANSPARENT
