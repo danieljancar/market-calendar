@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:124bce3bc6a0dc2c@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261106T133000Z
 DTEND:20261106T143000Z
 SUMMARY:US jobs report (October)
@@ -26,7 +26,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff3391996ed63bc@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ URL:https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-be
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f8bb7efd634991@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261110T133000Z
 DTEND:20261110T143000Z
 SUMMARY:US CPI (October)
@@ -75,7 +75,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:77daac68318d714e@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ URL:https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-p
 END:VEVENT
 BEGIN:VEVENT
 UID:1b2afa1d94c8076a@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
 SUMMARY:Nvidia Q3 FY2027 earnings
@@ -118,20 +118,22 @@ DESCRIPTION:Nvidia reports the quarter ended October 25 after the US close.
  he board to consider Huang's return (CNBC)\, and House Republicans want hi
  m to testify on November 18\, so leadership headlines can swamp the number
  s. Options priced a 5.4% move before the August report (ORATS via Reuters)
- . No current read found.\n\nNVIDIA 8-K: CEO transition: https://www.sec.go
- v/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotran
- siti.htm\nNVIDIA: conference call for Q3 results: https://investor.nvidia.
- com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-
- Quarter-Financial-Results/\nInsiderFinance: Nvidia earnings set for Nov. 1
- 7: https://www.insiderfinance.io/news/nvidia-earnings-set-for-nov-17-amid-
- sell-signals
+ . No current read found. On November 15 the FT reported Huang is weighing 
+ a comeback\, and Asian chip stocks fell on November 16 ahead of the report
+  (Cointelegraph).\n\nNVIDIA 8-K: CEO transition: https://www.sec.gov/Archi
+ ves/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.ht
+ m\nNVIDIA: conference call for Q3 results: https://investor.nvidia.com/new
+ s/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter
+ -Financial-Results/\nInsiderFinance: Nvidia earnings set for Nov. 17: http
+ s://www.insiderfinance.io/news/nvidia-earnings-set-for-nov-17-amid-sell-si
+ gnals
 CATEGORIES:stocks
 URL:https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/n
  vidiaannouncesceotransiti.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:7dafd152bbadda75@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -146,21 +148,23 @@ DESCRIPTION:APEC leaders meet in Shenzhen\, and the White House says Trump\
  uld probably meet but not to discuss Ukraine. A US-China trade framework o
  r progress on a Ukraine deal would lift the Nasdaq\, the Hang Seng and cry
  pto and weigh on oil and gold. A cancelled meeting or a public split would
-  keep the risk-off tone.\n\nSCMP: Shenzhen ready to host Xi\, Trump and Pu
- tin: https://scmp.com/news/china/politics/article/3371206/chinas-shenzhen-
- ready-host-xi-trump-and-putin-during-apec-summit\nSCMP: Xi and Trump set A
- PEC talks\, deliverables wait for G20: https://www.scmp.com/news/china/dip
- lomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliverables-expe
- cted-wait-g20\nAl Jazeera: what a Trump-Xi-Putin summit could mean: https:
- //www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-
- mean-and-what-it-wouldnt
+  keep the risk-off tone. On November 16 CNBC reported China confirmed the 
+ three-way summit\, and the NYT said the Nvidia fallout hangs over the Trum
+ p-Xi talks.\n\nSCMP: Shenzhen ready to host Xi\, Trump and Putin: https://
+ scmp.com/news/china/politics/article/3371206/chinas-shenzhen-ready-host-xi
+ -trump-and-putin-during-apec-summit\nSCMP: Xi and Trump set APEC talks\, d
+ eliverables wait for G20: https://www.scmp.com/news/china/diplomacy/articl
+ e/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20
+ \nAl Jazeera: what a Trump-Xi-Putin summit could mean: https://www.aljazee
+ ra.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what
+ -it-wouldnt
 CATEGORIES:geopolitics
 URL:https://scmp.com/news/china/politics/article/3371206/chinas-shenzhen-re
  ady-host-xi-trump-and-putin-during-apec-summit
 END:VEVENT
 BEGIN:VEVENT
 UID:53be903d3e2dba69@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261125T133000Z
 DTEND:20261125T143000Z
 SUMMARY:US PCE inflation (October)
@@ -178,7 +182,7 @@ URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7f7a7d912747d0@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
@@ -204,7 +208,7 @@ URL:https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-los
 END:VEVENT
 BEGIN:VEVENT
 UID:7836f48f0d47799b@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261201T100000Z
 DTEND:20261201T110000Z
 SUMMARY:Eurozone flash inflation (November)
@@ -222,7 +226,7 @@ URL:https://ec.europa.eu/eurostat/news/release-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f0f7d84bd600c7e9@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261202T073000Z
 DTEND:20261202T083000Z
 SUMMARY:Swiss CPI (November)
@@ -243,7 +247,7 @@ URL:https://www.bfs.admin.ch/bfs/en/home/statistics/prices/consumer-price-i
 END:VEVENT
 BEGIN:VEVENT
 UID:e1218ed29ec170db@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261204T133000Z
 DTEND:20261204T143000Z
 SUMMARY:US jobs report (November)
@@ -258,7 +262,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2629ea169b240101@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
 SUMMARY:FOMC rate decision
@@ -281,7 +285,7 @@ URL:https://kalshi.com/fed-rate-odds
 END:VEVENT
 BEGIN:VEVENT
 UID:76eb64214b7d8db5@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261210T083000Z
 DTEND:20261210T093000Z
 SUMMARY:SNB monetary policy assessment
@@ -299,7 +303,7 @@ URL:https://www.snb.ch/en/ifor/media/id/media_events
 END:VEVENT
 BEGIN:VEVENT
 UID:8c55e640f5a908f7@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20261210T133000Z
 DTEND:20261210T143000Z
 SUMMARY:US CPI (November)
@@ -314,7 +318,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1435df0c22a5f853@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261216
 TRANSP:TRANSPARENT
@@ -335,7 +339,7 @@ URL:https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-
 END:VEVENT
 BEGIN:VEVENT
 UID:59bfc848f5c9b78e@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
@@ -355,7 +359,7 @@ URL:https://www.financecalendar.com/event/ecb-rate-decision-december-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:db3e3586be695d54@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
@@ -366,20 +370,22 @@ DESCRIPTION:A hike from 1.25% to 1.5% is the consensus at the December 17-1
   December hike\, up from 35% a month earlier. Daiwa and MUFG both forecast
   December and then April 2027. A hike strengthens the yen and can force ca
  rry trades to unwind\, which hit crypto and tech in past hikes. A hold wou
- ld weaken the yen.\n\ninvestingLive: Daiwa sees December BoJ hike: https:/
- /investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-in-december
- -as-ueda-signals-shift-in-policy-phase/\ninvestingLive: Bloomberg survey\,
-  most see December hike: https://investinglive.com/central-banks/most-anal
- ysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-b
- loomberg/\nFinancecalendar: BoJ rate decision December 2026: https://www.f
- inancecalendar.com/?p=1260
+ ld weaken the yen. On November 16 CNBC reported Japan's economy unexpected
+ ly contracted in the third quarter on energy costs\, which cuts against th
+ e hike consensus.\n\ninvestingLive: Daiwa sees December BoJ hike: https://
+ investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-in-december-
+ as-ueda-signals-shift-in-policy-phase/\ninvestingLive: Bloomberg survey\, 
+ most see December hike: https://investinglive.com/central-banks/most-analy
+ sts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bl
+ oomberg/\nFinancecalendar: BoJ rate decision December 2026: https://www.fi
+ nancecalendar.com/?p=1260
 CATEGORIES:central bank
 URL:https://investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-i
  n-december-as-ueda-signals-shift-in-policy-phase/
 END:VEVENT
 BEGIN:VEVENT
 UID:926b93dfd5a1b792@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART:20270127T190000Z
 DTEND:20270127T200000Z
 SUMMARY:FOMC rate decision
@@ -397,7 +403,7 @@ URL:https://www.federalreserve.gov/newsevents/pressreleases/monetary2025090
 END:VEVENT
 BEGIN:VEVENT
 UID:73f60bd123a7e865@market-calendar
-DTSTAMP:20261115T054549Z
+DTSTAMP:20261116T054626Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 TRANSP:TRANSPARENT
