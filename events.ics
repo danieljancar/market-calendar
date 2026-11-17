@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:124bce3bc6a0dc2c@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261106T133000Z
 DTEND:20261106T143000Z
 SUMMARY:US jobs report (October)
@@ -26,7 +26,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff3391996ed63bc@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ URL:https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-be
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f8bb7efd634991@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261110T133000Z
 DTEND:20261110T143000Z
 SUMMARY:US CPI (October)
@@ -75,7 +75,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:77daac68318d714e@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ URL:https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-p
 END:VEVENT
 BEGIN:VEVENT
 UID:1b2afa1d94c8076a@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
 SUMMARY:Nvidia Q3 FY2027 earnings
@@ -120,20 +120,23 @@ DESCRIPTION:Nvidia reports the quarter ended October 25 after the US close.
  s. Options priced a 5.4% move before the August report (ORATS via Reuters)
  . No current read found. On November 15 the FT reported Huang is weighing 
  a comeback\, and Asian chip stocks fell on November 16 ahead of the report
-  (Cointelegraph).\n\nNVIDIA 8-K: CEO transition: https://www.sec.gov/Archi
- ves/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.ht
- m\nNVIDIA: conference call for Q3 results: https://investor.nvidia.com/new
- s/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter
- -Financial-Results/\nInsiderFinance: Nvidia earnings set for Nov. 17: http
- s://www.insiderfinance.io/news/nvidia-earnings-set-for-nov-17-amid-sell-si
- gnals
+  (Cointelegraph). On November 16 the shares fell 4.1% and the semis ETF SM
+ H 5.1% as the board reportedly ruled out a Huang return (Cointelegraph)\, 
+ while Trump backed reinstating him (BBC). The US also moved to block China
+ 's remote access to AI chips (Al Jazeera).\n\nNVIDIA 8-K: CEO transition: 
+ https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvid
+ iaannouncesceotransiti.htm\nNVIDIA: conference call for Q3 results: https:
+ //investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conferen
+ ce-Call-for-Third-Quarter-Financial-Results/\nInsiderFinance: Nvidia earni
+ ngs set for Nov. 17: https://www.insiderfinance.io/news/nvidia-earnings-se
+ t-for-nov-17-amid-sell-signals
 CATEGORIES:stocks
 URL:https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/n
  vidiaannouncesceotransiti.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:7dafd152bbadda75@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -150,21 +153,23 @@ DESCRIPTION:APEC leaders meet in Shenzhen\, and the White House says Trump\
  pto and weigh on oil and gold. A cancelled meeting or a public split would
   keep the risk-off tone. On November 16 CNBC reported China confirmed the 
  three-way summit\, and the NYT said the Nvidia fallout hangs over the Trum
- p-Xi talks.\n\nSCMP: Shenzhen ready to host Xi\, Trump and Putin: https://
- scmp.com/news/china/politics/article/3371206/chinas-shenzhen-ready-host-xi
- -trump-and-putin-during-apec-summit\nSCMP: Xi and Trump set APEC talks\, d
- eliverables wait for G20: https://www.scmp.com/news/china/diplomacy/articl
- e/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20
- \nAl Jazeera: what a Trump-Xi-Putin summit could mean: https://www.aljazee
- ra.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what
- -it-wouldnt
+ p-Xi talks. Trump left for the summit on November 16\, and the NYT reporte
+ d an open split in his administration on China policy. The US-China trade 
+ truce runs to January 10 (TNW)\, so wording on an extension matters.\n\nSC
+ MP: Shenzhen ready to host Xi\, Trump and Putin: https://scmp.com/news/chi
+ na/politics/article/3371206/chinas-shenzhen-ready-host-xi-trump-and-putin-
+ during-apec-summit\nSCMP: Xi and Trump set APEC talks\, deliverables wait 
+ for G20: https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-
+ trump-set-apec-talks-major-deliverables-expected-wait-g20\nAl Jazeera: wha
+ t a Trump-Xi-Putin summit could mean: https://www.aljazeera.com/amp/news/2
+ 026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt
 CATEGORIES:geopolitics
 URL:https://scmp.com/news/china/politics/article/3371206/chinas-shenzhen-re
  ady-host-xi-trump-and-putin-during-apec-summit
 END:VEVENT
 BEGIN:VEVENT
 UID:53be903d3e2dba69@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261125T133000Z
 DTEND:20261125T143000Z
 SUMMARY:US PCE inflation (October)
@@ -182,7 +187,7 @@ URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7f7a7d912747d0@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
@@ -208,7 +213,7 @@ URL:https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-los
 END:VEVENT
 BEGIN:VEVENT
 UID:7836f48f0d47799b@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261201T100000Z
 DTEND:20261201T110000Z
 SUMMARY:Eurozone flash inflation (November)
@@ -226,7 +231,7 @@ URL:https://ec.europa.eu/eurostat/news/release-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f0f7d84bd600c7e9@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261202T073000Z
 DTEND:20261202T083000Z
 SUMMARY:Swiss CPI (November)
@@ -247,7 +252,7 @@ URL:https://www.bfs.admin.ch/bfs/en/home/statistics/prices/consumer-price-i
 END:VEVENT
 BEGIN:VEVENT
 UID:e1218ed29ec170db@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261204T133000Z
 DTEND:20261204T143000Z
 SUMMARY:US jobs report (November)
@@ -262,7 +267,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2629ea169b240101@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
 SUMMARY:FOMC rate decision
@@ -285,7 +290,7 @@ URL:https://kalshi.com/fed-rate-odds
 END:VEVENT
 BEGIN:VEVENT
 UID:76eb64214b7d8db5@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261210T083000Z
 DTEND:20261210T093000Z
 SUMMARY:SNB monetary policy assessment
@@ -303,7 +308,7 @@ URL:https://www.snb.ch/en/ifor/media/id/media_events
 END:VEVENT
 BEGIN:VEVENT
 UID:8c55e640f5a908f7@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20261210T133000Z
 DTEND:20261210T143000Z
 SUMMARY:US CPI (November)
@@ -318,7 +323,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1435df0c22a5f853@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261216
 TRANSP:TRANSPARENT
@@ -329,17 +334,19 @@ DESCRIPTION:The US hosts the G20\, where SCMP expects the main US-China del
  EC attendance was earlier reported to depend partly on Xi agreeing to come
   to the G20. It lands between the FOMC and the ECB\, BoE and BoJ decisions
  . A trade deal would lift Chinese stocks\, the Nasdaq and crypto\, and a b
- reakdown would hit them.\n\nSCMP: Xi and Trump set APEC talks\, deliverabl
- es wait for G20: https://www.scmp.com/news/china/diplomacy/article/3373969
- /xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20\nTheworl
- ddata: APEC summit: https://theworlddata.com/apec-summit/
+ reakdown would hit them. The US-China trade truce runs to January 10 (TNW)
+ \, which makes this the last leaders' meeting before it lapses.\n\nSCMP: X
+ i and Trump set APEC talks\, deliverables wait for G20: https://www.scmp.c
+ om/news/china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-
+ deliverables-expected-wait-g20\nTheworlddata: APEC summit: https://theworl
+ ddata.com/apec-summit/
 CATEGORIES:politics
 URL:https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-
  set-apec-talks-major-deliverables-expected-wait-g20
 END:VEVENT
 BEGIN:VEVENT
 UID:59bfc848f5c9b78e@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
@@ -359,7 +366,7 @@ URL:https://www.financecalendar.com/event/ecb-rate-decision-december-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:db3e3586be695d54@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
@@ -384,8 +391,60 @@ URL:https://investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-i
  n-december-as-ueda-signals-shift-in-policy-phase/
 END:VEVENT
 BEGIN:VEVENT
+UID:5e5318a9d3229b75@market-calendar
+DTSTAMP:20261117T054640Z
+DTSTART:20270108T133000Z
+DTEND:20270108T143000Z
+SUMMARY:US jobs report (December)
+DESCRIPTION:December nonfarm payrolls\, the first labour print after the De
+ cember FOMC.\n\nThe BLS 2027 schedule lists January 8 at 8:30am ET. Octobe
+ r payrolls were 165k against a 65k estimate (LSEG poll). A strong print wo
+ uld keep 2027 hikes in play ahead of the January 27 FOMC\, which is bearis
+ h for crypto and tech. A weak one would support risk assets and gold.\n\nB
+ LS: 2027 release schedule: https://www.bls.gov/schedule/2027/home.htm
+CATEGORIES:macro
+URL:https://www.bls.gov/schedule/2027/home.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bff26671e0d1417f@market-calendar
+DTSTAMP:20261117T054640Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:US-China trade truce expires
+DESCRIPTION:The US-China tariff truce runs out unless it's extended again.\
+ n\nTNW reported the truce was extended to January 10 at the end of Xi's Wa
+ shington visit\, when the two sides also set up an AI dialogue and left ra
+ re earths and chip rules for further talks. The date isn't confirmed by an
+  official source yet. SCMP expects the main US-China deliverables at the G
+ 20 on December 14\, so an extension could come there. A lapse would bring 
+ tariffs back and hit the Nasdaq\, the Hang Seng and crypto. An extension o
+ r a wider deal would lift them.\n\nTNW: Xi ends Washington visit with trad
+ e truce extended to January: https://thenextweb.com/news/xi-washington-vis
+ it-trade-truce-ai-talks\nHerald Corp: leaders confirm intent to attend eac
+ h other's APEC and G20 summits: https://biz.heraldcorp.com/article/1088540
+ 9
+CATEGORIES:politics
+URL:https://thenextweb.com/news/xi-washington-visit-trade-truce-ai-talks
+END:VEVENT
+BEGIN:VEVENT
+UID:58b4477072f2044d@market-calendar
+DTSTAMP:20261117T054640Z
+DTSTART:20270113T133000Z
+DTEND:20270113T143000Z
+SUMMARY:US CPI (December)
+DESCRIPTION:December consumer prices\, the last CPI print before the Januar
+ y 27 FOMC.\n\nThe BLS 2027 schedule lists January 13 at 8:30am ET. October
+  came in hot at +0.4% headline and +0.3% core. A hot print would raise the
+  odds of another hike in January\, which hurts crypto\, tech and gold. A s
+ oft print would support the case that December was the last move.\n\nBLS: 
+ 2027 release schedule: https://www.bls.gov/schedule/2027/home.htm
+CATEGORIES:macro
+URL:https://www.bls.gov/schedule/2027/home.htm
+END:VEVENT
+BEGIN:VEVENT
 UID:926b93dfd5a1b792@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART:20270127T190000Z
 DTEND:20270127T200000Z
 SUMMARY:FOMC rate decision
@@ -403,7 +462,7 @@ URL:https://www.federalreserve.gov/newsevents/pressreleases/monetary2025090
 END:VEVENT
 BEGIN:VEVENT
 UID:73f60bd123a7e865@market-calendar
-DTSTAMP:20261116T054626Z
+DTSTAMP:20261117T054640Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 TRANSP:TRANSPARENT
@@ -416,5 +475,34 @@ DESCRIPTION:The first ECB decision of 2027.\n\nA mirror of the ECB calendar
  dar: https://eco3min.fr/en/ecb-meeting-calendar/
 CATEGORIES:central bank
 URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:0e9ba9354b4b2b2e@market-calendar
+DTSTAMP:20261117T054640Z
+DTSTART:20270205T133000Z
+DTEND:20270205T143000Z
+SUMMARY:US jobs report (January)
+DESCRIPTION:January nonfarm payrolls\, the first labour print after the Jan
+ uary 27 FOMC.\n\nThe BLS February 2027 schedule lists February 5 at 8:30am
+  ET. A strong print is bearish for crypto and tech while the Fed is hiking
+ . A weak one supports risk assets and gold.\n\nBLS: February 2027 release 
+ schedule: https://www.bls.gov/schedule/2027/02_sched_list.htm
+CATEGORIES:macro
+URL:https://www.bls.gov/schedule/2027/02_sched_list.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:25359a06627a5582@market-calendar
+DTSTAMP:20261117T054640Z
+DTSTART:20270211T133000Z
+DTEND:20270211T143000Z
+SUMMARY:US CPI (January)
+DESCRIPTION:January consumer prices from the BLS.\n\nThe BLS February 2027 
+ schedule lists February 11 at 8:30am ET. One third-party calendar shows Fe
+ bruary 10 and marks it unconfirmed\, so the BLS date stands. A hot print l
+ ifts yields and the dollar and hurts crypto\, tech and gold.\n\nBLS: Febru
+ ary 2027 release schedule: https://www.bls.gov/schedule/2027/02_sched_list
+ .htm
+CATEGORIES:macro
+URL:https://www.bls.gov/schedule/2027/02_sched_list.htm
 END:VEVENT
 END:VCALENDAR
