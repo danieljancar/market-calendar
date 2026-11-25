@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:124bce3bc6a0dc2c@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261106T133000Z
 DTEND:20261106T143000Z
 SUMMARY:US jobs report (October)
@@ -26,7 +26,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff3391996ed63bc@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ URL:https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-be
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f8bb7efd634991@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261110T133000Z
 DTEND:20261110T143000Z
 SUMMARY:US CPI (October)
@@ -75,7 +75,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:77daac68318d714e@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ URL:https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-p
 END:VEVENT
 BEGIN:VEVENT
 UID:1b2afa1d94c8076a@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
 SUMMARY:Nvidia Q3 FY2027 earnings
@@ -140,7 +140,7 @@ URL:https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/n
 END:VEVENT
 BEGIN:VEVENT
 UID:7dafd152bbadda75@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -182,7 +182,7 @@ URL:https://scmp.com/news/china/politics/article/3371206/chinas-shenzhen-re
 END:VEVENT
 BEGIN:VEVENT
 UID:1b82baf38329491b@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -210,7 +210,7 @@ URL:https://nasdaqtrader.com/TraderNews.aspx?id=DTN2026-28
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbdc968934e2c24@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
@@ -224,12 +224,15 @@ DESCRIPTION:Nvidia's board brought Huang back as CEO twelve days after his
  osed up 31.48%\, its best day since May 2003\, and the S&P 500 rose about 
  4.7% to end a seven-session losing streak (Yahoo Finance). Bitcoin fell 1.
  6% on the day. Governance questions and the national security probe remain
-  open\, so new disclosures can still hit semis.\n\nYahoo Finance: stocks p
- ost best day since April 2025 as Nvidia soars 31%: https://finance.yahoo.c
- om/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-su
- rge-after-nvidia-reinstates-jensen-huang-182039397.html\nIBTimes: S&P 500 
- surges nearly 5% as Nvidia brings back Huang: https://www.ibtimes.com.au/s
- p-500-surges-nvidia-reinstates-jensen-huang-ceo-1879244
+  open\, so new disclosures can still hit semis. The next day Nvidia fell 5
+ .9% to $155.38 and a semiconductor index lost 7.9% (Yahoo Finance\, NBC)\,
+  after Attorney General Blanche declined to say whether the Justice Depart
+ ment or FBI had investigated Huang.\n\nYahoo Finance: stocks post best day
+  since April 2025 as Nvidia soars 31%: https://finance.yahoo.com/markets/l
+ ive/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nv
+ idia-reinstates-jensen-huang-182039397.html\nIBTimes: S&P 500 surges nearl
+ y 5% as Nvidia brings back Huang: https://www.ibtimes.com.au/sp-500-surges
+ -nvidia-reinstates-jensen-huang-ceo-1879244
 CATEGORIES:stocks
 URL:https://finance.yahoo.com/markets/live/stock-market-today-monday-novemb
  er-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-1820393
@@ -237,7 +240,7 @@ URL:https://finance.yahoo.com/markets/live/stock-market-today-monday-novemb
 END:VEVENT
 BEGIN:VEVENT
 UID:53be903d3e2dba69@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261125T133000Z
 DTEND:20261125T143000Z
 SUMMARY:US PCE inflation (October)
@@ -252,18 +255,21 @@ DESCRIPTION:The Fed's preferred inflation gauge for October\, the last infl
  ned up in search by November 24. It lands two days after the S&P 500 rose 
  4.7% on Huang's return to Nvidia\, with CME odds of a 50bp December hike d
  own to 0% (Bloomingbit)\, so a hot core has room to reprice. US markets ar
- e closed the next day for Thanksgiving.\n\nBEA: PCE price index: https://w
- ww.bea.gov/data/personal-consumption-expenditures-price-index\nFinancecale
- ndar: US personal income and outlays\, October 2026: https://www.financeca
- lendar.com/event/us-personal-income-and-outlays-pce-october-2026/\nFedrate
- calc: US economic calendar November 2026: https://fedratecalc.com/us-econo
- mic-calendar/november-2026/
+ e closed the next day for Thanksgiving. On the morning of the release the 
+ Bloomberg consensus was core PCE +0.3% month over month and 3.2% year over
+  year\, up from 3.1%\, and headline +0.3% and 3.8%\, up from 3.6%. Goldman
+  Sachs estimated core at +0.29%. CME odds of a 50bp December hike were bac
+ k at 4.9%.\n\nBEA: PCE price index: https://www.bea.gov/data/personal-cons
+ umption-expenditures-price-index\nZeroHedge: key events this holiday-short
+ ened week\, all about PCE: https://www.zerohedge.com/markets/key-events-ho
+ liday-shortened-week-all-about-pce\nFedratecalc: US economic calendar Nove
+ mber 2026: https://fedratecalc.com/us-economic-calendar/november-2026/
 CATEGORIES:macro
 URL:https://www.bea.gov/data/personal-consumption-expenditures-price-index
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7f7a7d912747d0@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
@@ -276,21 +282,22 @@ DESCRIPTION:Strategy leaves the MSCI USA\, World and ACWI indexes and Metap
   JPMorgan estimated up to $8.8bn of outflows if other index providers foll
  ow. Removal doesn't force Strategy to sell bitcoin. Expect index selling i
  nto the close\, with room for a relief bounce after. By the November 23 cl
- ose the shares were down 42.2% in a month.\n\nThe Block: Strategy\, Metapl
- anet lose MSCI index membership: https://www.theblock.co/news/markets/2026
- -11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-4
- 38437\nInvesting.com: Strategy to be removed from MSCI indexes: https://in
- vesting.com/news/stock-market-news/strategy-to-be-removed-from-msci-indexe
- s-what-are-the-risks-for-bitcoin-93CH-5020460\nMLQ: MSCI to drop Strategy 
- and Metaplanet after Nov. 30: https://mlq.ai/news/msci-confirms-it-will-dr
- op-strategy-and-metaplanet-from-its-indexes-after-nov-30/
+ ose the shares were down 42.2% in a month\, and by the November 24 close 4
+ 6.9%\, with bitcoin under $60\,000.\n\nThe Block: Strategy\, Metaplanet lo
+ se MSCI index membership: https://www.theblock.co/news/markets/2026-11-11-
+ strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437\n
+ Investing.com: Strategy to be removed from MSCI indexes: https://investing
+ .com/news/stock-market-news/strategy-to-be-removed-from-msci-indexes-what-
+ are-the-risks-for-bitcoin-93CH-5020460\nMLQ: MSCI to drop Strategy and Met
+ aplanet after Nov. 30: https://mlq.ai/news/msci-confirms-it-will-drop-stra
+ tegy-and-metaplanet-from-its-indexes-after-nov-30/
 CATEGORIES:stocks
 URL:https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-los
  e-msci-index-membership-november-reshuffle-438437
 END:VEVENT
 BEGIN:VEVENT
 UID:7836f48f0d47799b@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261201T100000Z
 DTEND:20261201T110000Z
 SUMMARY:Eurozone flash inflation (November)
@@ -308,7 +315,7 @@ URL:https://ec.europa.eu/eurostat/news/release-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f0f7d84bd600c7e9@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261202T073000Z
 DTEND:20261202T083000Z
 SUMMARY:Swiss CPI (November)
@@ -328,8 +335,32 @@ URL:https://www.bfs.admin.ch/bfs/en/home/statistics/prices/consumer-price-i
  ndex.html
 END:VEVENT
 BEGIN:VEVENT
+UID:f4ef0bff80d9b263@market-calendar
+DTSTAMP:20261125T054805Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Jensen Huang testifies before Senate committee
+DESCRIPTION:Nvidia's CEO answers a Senate committee in a livestreamed heari
+ ng on the Megaspeed chip export case.\n\nIt's Huang's first public testimo
+ ny since he resigned on November 11 and was reinstated on November 23. Nvi
+ dia rose 31.5% on his return and fell 5.9% the next day\, when Attorney Ge
+ neral Blanche declined to say whether the Justice Department or FBI had in
+ vestigated him. The Justice Department is running a criminal inquiry into 
+ Megaspeed and the SEC is probing Nvidia's disclosures (CNBC). Damaging tes
+ timony would hit Nvidia\, semis and the Nasdaq\, with crypto stocks likely
+  following. A clean hearing removes one overhang. The start time wasn't fo
+ und in search.\n\nCNBC: Jensen Huang's and Nvidia's legal exposure balloon
+ s: https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html\nBreitba
+ rt (AFP): Huang's return fails to dispel doubts as Nvidia shares drop: htt
+ ps://www.breitbart.com/news/huangs-return-fails-to-dispel-doubts-as-nvidia
+ -shares-drop/
+CATEGORIES:stocks
+URL:https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html
+END:VEVENT
+BEGIN:VEVENT
 UID:e1218ed29ec170db@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261204T133000Z
 DTEND:20261204T143000Z
 SUMMARY:US jobs report (November)
@@ -344,7 +375,7 @@ URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2629ea169b240101@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
 SUMMARY:FOMC rate decision
@@ -362,18 +393,21 @@ DESCRIPTION:A 25bp hike from 3.75–4.00% is the market's base case after t
   into correction on November 20\, CME odds of 50bp dropped to 0% by Novemb
  er 23 (Bloomingbit)\, and sources put 25bp between 88.6% and 95%. Governor
   Cook said waiting risks falling behind the curve and hinted at hikes beyo
- nd December\, while Bessent and Ackman warned of a policy error.\n\nKalshi
-  Fed rate odds: https://kalshi.com/fed-rate-odds\nInvesting.com: Fed hike 
- odds at 88% after hot CPI: https://www.investing.com/news/economy-news/fed
- -rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585\nBloo
- mingbit: 50bp December hike odds drop to zero: https://en.bloomingbit.io/f
- eed/news/125006
+ nd December\, while Bessent and Ackman warned of a policy error. By Novemb
+ er 24 CME FedWatch had 25bp at about 95.1% and 50bp at about 4.9%. New Yor
+ k Fed President Williams said inflation is simply too high and left hikes 
+ at back-to-back meetings open. Yardeni argued for 50bp (Stocktwits).\n\nKa
+ lshi Fed rate odds: https://kalshi.com/fed-rate-odds\nInvesting.com: Fed h
+ ike odds at 88% after hot CPI: https://www.investing.com/news/economy-news
+ /fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585\n
+ Bloomingbit: 50bp December hike odds drop to zero: https://en.bloomingbit.
+ io/feed/news/125006
 CATEGORIES:central bank
 URL:https://kalshi.com/fed-rate-odds
 END:VEVENT
 BEGIN:VEVENT
 UID:76eb64214b7d8db5@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261210T083000Z
 DTEND:20261210T093000Z
 SUMMARY:SNB monetary policy assessment
@@ -382,16 +416,17 @@ DESCRIPTION:Quarterly SNB decision\, with the policy rate at 0%.\n\nThe pol
  um Economics judged market pricing of a possible December 2026 hike overdo
  ne\, and that view may be stale. Watch the wording on CHF strength and FX 
  intervention. A dovish tone or intervention talk weakens the CHF\, and a h
- ike would strengthen it and weigh on Swiss exporters.\n\nSNB media events 
- schedule: https://www.snb.ch/en/ifor/media/id/media_events\nFinancecalenda
- r: SNB rate decision December 2026: https://www.financecalendar.com/event/
- snb-rate-decision-december-2026/
+ ike would strengthen it and weigh on Swiss exporters. Switzerland is among
+  the 16 partners in the US Section 301 tariff plan reported on November 24
+ .\n\nSNB media events schedule: https://www.snb.ch/en/ifor/media/id/media_
+ events\nFinancecalendar: SNB rate decision December 2026: https://www.fina
+ ncecalendar.com/event/snb-rate-decision-december-2026/
 CATEGORIES:central bank
 URL:https://www.snb.ch/en/ifor/media/id/media_events
 END:VEVENT
 BEGIN:VEVENT
 UID:8c55e640f5a908f7@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20261210T133000Z
 DTEND:20261210T143000Z
 SUMMARY:US CPI (November)
@@ -406,7 +441,7 @@ URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1435df0c22a5f853@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261216
 TRANSP:TRANSPARENT
@@ -420,17 +455,20 @@ DESCRIPTION:The US hosts the G20\, where SCMP expects the main US-China del
  reakdown would hit them. The US-China trade truce runs to January 10 (TNW)
  \, which makes this the last leaders' meeting before it lapses. The Shenzh
  en meeting on November 19 did little on trade (Modern Ghana)\, which leave
- s the truce extension to this summit.\n\nSCMP: Xi and Trump set APEC talks
- \, deliverables wait for G20: https://www.scmp.com/news/china/diplomacy/ar
- ticle/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait
- -g20\nTheworlddata: APEC summit: https://theworlddata.com/apec-summit/
+ s the truce extension to this summit. On November 24 reports said the US i
+ s preparing Section 301 tariffs on 16 partners including China\, which the
+  BBC says is likely to raise tensions before the summit.\n\nSCMP: Xi and T
+ rump set APEC talks\, deliverables wait for G20: https://www.scmp.com/news
+ /china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliver
+ ables-expected-wait-g20\nTheworlddata: APEC summit: https://theworlddata.c
+ om/apec-summit/
 CATEGORIES:politics
 URL:https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-
  set-apec-talks-major-deliverables-expected-wait-g20
 END:VEVENT
 BEGIN:VEVENT
 UID:59bfc848f5c9b78e@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
@@ -450,7 +488,7 @@ URL:https://www.financecalendar.com/event/ecb-rate-decision-december-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:db3e3586be695d54@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
@@ -476,7 +514,7 @@ URL:https://investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-i
 END:VEVENT
 BEGIN:VEVENT
 UID:5e5318a9d3229b75@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20270108T133000Z
 DTEND:20270108T143000Z
 SUMMARY:US jobs report (December)
@@ -491,7 +529,7 @@ URL:https://www.bls.gov/schedule/2027/home.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:bff26671e0d1417f@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 TRANSP:TRANSPARENT
@@ -508,19 +546,21 @@ DESCRIPTION:The US-China tariff truce runs out unless it's extended again.\
  ives January 10\, 2027 as the end of a two-month extension\, and reports T
  rump revived threats of tariffs of up to 300% on countries that don't shif
  t production to the US. The Shenzhen meeting on November 19 brought no ext
- ension (Modern Ghana).\n\nTNW: Xi ends Washington visit with trade truce e
- xtended to January: https://thenextweb.com/news/xi-washington-visit-trade-
- truce-ai-talks\nCyprus Mail: Trump-Xi meeting just kicked the can down the
-  road: https://cyprus-mail.com/2026/10/18/trump-xi-meeting-just-kicked-can
- -down-the-road\nSCMP: Xi and Trump's APEC meeting\, what's on hold and wha
- t's on the table: https://www.scmp.com/economy/china-economy/article/33739
- 04/xi-and-trumps-apec-meeting-whats-hold-and-whats-table
+ ension (Modern Ghana). On November 24 reports said the US is preparing Sec
+ tion 301 tariffs on 16 partners\, with China likely facing some of the ste
+ epest increases (Axios\, Fiscal Times).\n\nTNW: Xi ends Washington visit w
+ ith trade truce extended to January: https://thenextweb.com/news/xi-washin
+ gton-visit-trade-truce-ai-talks\nCyprus Mail: Trump-Xi meeting just kicked
+  the can down the road: https://cyprus-mail.com/2026/10/18/trump-xi-meetin
+ g-just-kicked-can-down-the-road\nSCMP: Xi and Trump's APEC meeting\, what'
+ s on hold and what's on the table: https://www.scmp.com/economy/china-econ
+ omy/article/3373904/xi-and-trumps-apec-meeting-whats-hold-and-whats-table
 CATEGORIES:politics
 URL:https://thenextweb.com/news/xi-washington-visit-trade-truce-ai-talks
 END:VEVENT
 BEGIN:VEVENT
 UID:58b4477072f2044d@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20270113T133000Z
 DTEND:20270113T143000Z
 SUMMARY:US CPI (December)
@@ -535,7 +575,7 @@ URL:https://www.bls.gov/schedule/2027/home.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:926b93dfd5a1b792@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20270127T190000Z
 DTEND:20270127T200000Z
 SUMMARY:FOMC rate decision
@@ -544,19 +584,20 @@ DESCRIPTION:The first Fed decision of 2027\, after the January 26-27 meetin
  n October he saw no case for 2027 hikes (investingLive)\, so guidance here
   shows whether December was the last move. A hawkish surprise would hit cr
  ypto and tech. In November Governor Cook hinted at hikes beyond December (
- KuCoin news).\n\nFederal Reserve: tentative 2027 FOMC schedule: https://ww
- w.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm\nThriv
- e in Markets: FOMC 2027 dates: https://thriveinmarkets.com/calendar/dates/
- fomc-2027/\nKuCoin news: Cook hints at rate hikes beyond December: https:/
- /www.kucoin.com/news/flash/fed-governor-lisa-cook-hints-at-rate-hikes-beyo
- nd-december
+ KuCoin news). On November 23 Williams said inflation is simply too high an
+ d left hikes at back-to-back meetings open.\n\nFederal Reserve: tentative 
+ 2027 FOMC schedule: https://www.federalreserve.gov/newsevents/pressrelease
+ s/monetary20250905a.htm\nThrive in Markets: FOMC 2027 dates: https://thriv
+ einmarkets.com/calendar/dates/fomc-2027/\nKuCoin news: Cook hints at rate 
+ hikes beyond December: https://www.kucoin.com/news/flash/fed-governor-lisa
+ -cook-hints-at-rate-hikes-beyond-december
 CATEGORIES:central bank
 URL:https://www.federalreserve.gov/newsevents/pressreleases/monetary2025090
  5a.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:73f60bd123a7e865@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 TRANSP:TRANSPARENT
@@ -572,7 +613,7 @@ URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
 END:VEVENT
 BEGIN:VEVENT
 UID:0e9ba9354b4b2b2e@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20270205T133000Z
 DTEND:20270205T143000Z
 SUMMARY:US jobs report (January)
@@ -586,7 +627,7 @@ URL:https://www.bls.gov/schedule/2027/02_sched_list.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:25359a06627a5582@market-calendar
-DTSTAMP:20261124T054719Z
+DTSTAMP:20261125T054805Z
 DTSTART:20270211T133000Z
 DTEND:20270211T143000Z
 SUMMARY:US CPI (January)
